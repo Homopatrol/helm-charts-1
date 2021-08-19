@@ -8,3 +8,4 @@ CI based on Github Actions, Kind and Chart-testing tool. See [Youtube video](htt
 
 Add the repo:
 `helm repo add evryfs-oss https://evryfs.github.io/helm-charts/`
+about this chart...
